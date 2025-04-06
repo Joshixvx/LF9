@@ -1,1 +1,1 @@
-# LF9
+# Entwurf und Implementierung einer REST-Schnittstelle
